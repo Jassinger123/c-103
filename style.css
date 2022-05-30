@@ -1,0 +1,19 @@
+body{
+    background-color: linear-gradient(0% purple 30% red 10% black) ;
+    color: blueviolet;
+}
+
+.heading{
+    width: 100%;
+    font-size: 22px;
+}
+
+#camera{
+    border: 2px black solid;
+    width: 350px;
+    height:300px;
+}
+
+.bold{
+    color: blue;
+}
